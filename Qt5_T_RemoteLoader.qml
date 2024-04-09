@@ -11,7 +11,7 @@ FluScrollablePage{
 
     FluArea{
         Layout.fillWidth: true
-        height: 540
+        height: 300
         paddings: 10
         Layout.topMargin: 20
         color: FluTheme.dark ? Qt.rgba(61/255,61/255,61/255,1) : Qt.rgba(254/255,254/255,254/255,1)
