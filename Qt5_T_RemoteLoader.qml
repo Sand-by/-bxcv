@@ -14,7 +14,7 @@ FluScrollablePage{
         height: 68
         paddings: 10
         Layout.topMargin: 20
-        color: FluColors.Grey220
+        color: FluTheme.dark ? Qt.rgba(61/255,61/255,61/255,1) : Qt.rgba(254/255,254/255,254/255,1)
 
     }
 
